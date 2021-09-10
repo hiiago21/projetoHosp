@@ -1,0 +1,15 @@
+
+c
+java:S1192"MDefine a constant instead of duplicating this literal "porto alegre" 4 times.(¶ş•¸
+
+java:S1488•"tImmediately return this expression instead of assigning it to the temporary variable "listaPacientesPorSolicitante".(ìÄ—øÿÿÿÿ
+ƒ
+java:S1488¥"eImmediately return this expression instead of assigning it to the temporary variable "maioresTempos".(ñ³Ú8ø£â½/
+B
+java:S1612K",Replace this lambda with a method reference.(ó±À¸
+V	java:S125S"<This block of commented-out lines of code should be removed.(ô½àÚÿÿÿÿÿ
+V	java:S125{"<This block of commented-out lines of code should be removed.(š®›åúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(¶‰ÕŞûÿÿÿÿ
+R	java:S125 "<This block of commented-out lines of code should be removed.(Èû ®
+C
+java:S1612¨",Replace this lambda with a method reference.(Æ®Ò
